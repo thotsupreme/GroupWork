@@ -2,7 +2,7 @@
 //Peyton Annett
 import java.util.Scanner;
 
-public class ProgramSeven {
+public class ProgramSeven { 
 
     public static void main(String[] args) {
 
